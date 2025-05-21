@@ -1,49 +1,44 @@
-Museum Landing Page 🏛️
-A responsive single-page website created to represent a 19th-century neoclassical museum. The page is designed to reflect the elegance and timelessness of historical architecture, using clean code and modern frontend technologies.
+# Museum Landing Page 🏛️
 
-🖼️ Demo
-Live Demo
+A responsive single-page website created to represent a 19th-century neoclassical museum. The page is designed to reflect the elegance and timelessness of historical architecture
+# [Demo](https://zykhor-andrii.github.io/Museum-landing/)
 
-🛠️ Technologies Used
-HTML5
+## 🎨 Design
 
-CSS3
+The layout and UI were designed in Figma.  
+[🔗 View the prototype](https://www.figma.com/design/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323-1957&p=f&t=X56ghP6OiTJXWwly-0)
 
-Sass (SCSS)
+# 🛠️ Technologies Used
 
-JavaScript
+- HTML5
+- CSS3
+- Sass (SCSS)
+- JavaScript
 
-BEM Methodology
+# 📐 Project Structure & Features
 
-Gulp (build system)
+- Responsive layout optimized for different screen sizes
 
-📐 Project Structure & Features
-Responsive layout optimized for different screen sizes
+- Semantic HTML for better accessibility and SEO
 
-Semantic HTML for better accessibility and SEO
+- SCSS for modular and maintainable styles
 
-SCSS for modular and maintainable styles
+- JavaScript used for interactivity and animation
 
-JavaScript used for interactivity and animation
+- Clean file structure following BEM methodology
 
-Clean file structure following BEM methodology
+- Includes favicon, smooth scrolling, and transition effects
 
-Includes favicon, smooth scrolling, and transition effects
+- Optimized assets and clean code structure
 
-Optimized assets and clean code structure
+# How to run the project locally
 
-Developed using a Gulp-based project starter from Mate Academy
+- Fork and clone this repository
+- Run `npm install` in your terminal
+- Open `http://localhost:8080/` in your browser
+- Run `npm start` to start the project locally
 
-🚀 How to Run the Project Locally
-Fork and clone this repository
+# Dependencies
 
-Run npm install to install dependencies
-
-Run npm start to launch the project on http://localhost:1234/
-
-To build the project for production, use npm run build
-
-📦 Dependencies
-Node v14.17.1 or higher
-
-npm v8.19.2 or higher
+- Node `v14.17.1` or higher
+- npm `v8.19.2` or higher
